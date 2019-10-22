@@ -20,6 +20,8 @@ Middleware like selenium is not used in the process
 
         pip install GetOldTweets3
         或者
+        git clone https://github.com/Solin1998/SearchTT.git
+        直接下载项目
         
         
         
