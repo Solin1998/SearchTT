@@ -1,6 +1,7 @@
 功能：
 ----
 <p>用于访问和下载某人的全部推特,以及大范围的推特爬取</p>
+To access and download all of someone's tweets, as well as a wide range of twitter crawls
 
 介绍：
 ----
@@ -8,12 +9,20 @@
 这通过改写一个开源项目抓取某个人注册以来发送的的所有推特，原理是通过不停的模拟浏览器滑动获取json文件，当然
 过程中并没有用到类似于selenium一类的中间件
 
+This is done by rewriting an open source project to grab all the tweets someone has sent since signing up, by swiping through a simulated browser to get the json file, of course
+Middleware like selenium is not used in the process
+
 
 
 安装：
 ------
 在pycharm开发环境或者linux系统cmd下输入以下指令：
-### pip install GetOldTweets3
+
+        pip install GetOldTweets3
+        或者
+        
+        
+        
 
 输出：
 ------
