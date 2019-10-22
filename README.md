@@ -49,6 +49,7 @@ Example 5 - 通过地理位置获取推特:
 =====
 直接下载项目后在前面加python即可
 如：
-    python GetOldTweets3 --username "barackobama" --toptweets --maxtweets 10
+
+        python GetOldTweets3 --username "barackobama" --toptweets --maxtweets 10
 
 #后续的功能，如一键获取用户的关注人，地理信息，签名，所发推特的评论等功能正在添加中（需要用到开发者账号）
