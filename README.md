@@ -44,16 +44,15 @@ Example 2 - 通过user_id获取推特,如获取川普的前10条推特
 
 Example 3 - 通过user_id时间段内的推特
 
- 		GetOldTweets3 --username "barackobama" --since 2015-09-10 --until 2015-09-12 --maxtweets 10
+   GetOldTweets3 --username "barackobama" --since 2015-09-10 --until 2015-09-12 --maxtweets 10
 
 Example 4 - 获取某种语言的推特:
 
- 		GetOldTweets3 --querysearch "bitcoin" --lang cn --maxtweets 10
+ GetOldTweets3 --querysearch "bitcoin" --lang cn --maxtweets 10
 
 
 Example 5 - 通过地理位置获取推特:
-
- 		GetOldTweets3 --querysearch "bitcoin" --near "Berlin, Germany" --within 25km --maxtweets 10
+ GetOldTweets3 --querysearch "bitcoin" --near "Berlin, Germany" --within 25km --maxtweets 10
 
 
 如何在windows下使用
