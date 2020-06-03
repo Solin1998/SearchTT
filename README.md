@@ -13,24 +13,6 @@ This is done by rewriting an open source project to grab all the tweets someone 
 Middleware like selenium is not used in the process
 
 
-
-安装：
-------
-在pycharm开发环境或者linux系统cmd下输入以下指令：
-
-        pip install GetOldTweets3
-        或者
-        git clone https://github.com/Solin1998/SearchTT.git
-        直接下载项目
-        
-        
-        
-
-输出：
-------
-默认输出为output_got.csv的文件
-
-
 使用方法举例(linux)：
 ------
 
